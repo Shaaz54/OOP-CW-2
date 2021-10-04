@@ -2,6 +2,7 @@
 public class Circle {
 	private double radius;
 	 private String color;
+	//  private int no;
 	 
 	 public Circle(){
 	     radius = 1;
