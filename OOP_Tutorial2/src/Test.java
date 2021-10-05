@@ -19,7 +19,7 @@ public class Test {
 	       System.out.println("circle 2 color = " +c2.getColor()+"\n"+"circle 2 radius = " +c2.getRadius()+"\n"+"circle 2 Area = " + c2.getArea()+"\n");
 	        
 	        Circle c3 = new Circle();
-	        System.out.println(c3.toString());
+	        System.out.println(c3.toString()); Hello world
 	        System.out.println(c3);
 	        
 	    Date d1 = new Date(00,00,0000);
